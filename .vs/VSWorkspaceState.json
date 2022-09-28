@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.storybook",
+    "\\stories",
+    "\\VortexComponentLibrary",
+    "\\VortexComponentLibrary\\wwwroot"
+  ],
+  "SelectedNode": "\\stories\\Square.stories.js",
+  "PreviewInSolutionExplorer": false
+}
